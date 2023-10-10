@@ -3,7 +3,7 @@
 This is a menu-driven python program for a bank account.
 It is implemented by Object-oriented programming technique by using class and creating objects.
 Each data member is validated by its corresponding validating function which are present in a separate program called "Validate.py".
-All the functions in the "Validate.py" program are imported in the main program "BankingSystem.py"
+All the functions in the "Validate.py" program are imported in the main program "BankSystem.py"
 It has 10 functionalities with which we can interact with the bank account.
 The functions are
 1. Creation of Bank Account
