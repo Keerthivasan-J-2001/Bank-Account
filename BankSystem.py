@@ -301,7 +301,7 @@ while True:
         for k,v in AccDict.items():
             if k == AcNo:
                 f=1
-                if(v.bal >= 20000 && v.age >= 18):
+                if(v.bal >= 20000 and v.age >= 18):
                     print("Congratulations!! You are eligible to apply for credit card.")
                 else:
                     print("Sorry!! You are not eligible to apply for credit card.")
